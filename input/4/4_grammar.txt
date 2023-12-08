@@ -1,0 +1,6 @@
+terminal: a, b
+nonterminal: S, A
+S->aAa
+S->bAb
+A->aa
+A->a
