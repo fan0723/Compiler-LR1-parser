@@ -37,4 +37,6 @@ abab
 
 Example:
 
-![image](https://github.com/fan0723/Compiler-LR1-parser/assets/75062267/f2274301-dc71-464b-913f-cdd5d6990e38)
+![image](https://github.com/fan0723/Compiler-LR1-parser/assets/75062267/bc59f697-b698-4739-a7ae-fd10fc7c0f01)
+
+![image](https://github.com/fan0723/Compiler-LR1-parser/assets/75062267/c16bdb8e-276b-48ea-bd7d-261779423d69)
